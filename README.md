@@ -88,5 +88,7 @@ python filename.py
 
 ## Author
 Khushi Kadyan
+
 B.Tech CSE (DSAI)
+
 Celebal Technologies Intern (2025)
