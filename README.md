@@ -87,8 +87,10 @@ python filename.py
 ---
 
 ## Author
-Khushi Kadyan
+Khushi Kadyan  && Sarthak Maan
 
-B.Tech CSE (DSAI)
+B.Tech CSE (DSAI) && Btech CSE (CORE)
 
 Celebal Technologies Intern (2025)
+
+SRM University ,Sonepat
